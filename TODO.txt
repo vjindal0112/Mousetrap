@@ -1,3 +1,5 @@
 TODO MOUSETRAP:
 
 something to mark center on both sides of car
+
+huge guiderails for string on spindle so doesn't come off
